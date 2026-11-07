@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\controllers\\universitycafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\controllers\\universitycafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|c:\\users\\user\\desktop\\c-\\university cafeteria inventory\\university cafeteria inventory\\views\\universitycafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE5239C-9192-4B49-B5FA-F0E5CCDBB489}|University Cafeteria Inventory\\University Cafeteria Inventory.csproj|solutionrelative:university cafeteria inventory\\views\\universitycafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\appsettings.json",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\appsettings.json",
+              "RelativeToolTip": "University Cafeteria Inventory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T17:04:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Program.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:03:33.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\Supplier.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:03:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\Category.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:03:14.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\Product.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:03:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:57:48.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityCafeteriaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Controllers\\UniversityCafeteriaController.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Controllers\\UniversityCafeteriaController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Controllers\\UniversityCafeteriaController.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Controllers\\UniversityCafeteriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:58:32.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Models\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Models\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:03:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchaseOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\PurchaseOrderItem.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Models\\PurchaseOrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\PurchaseOrderItem.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Models\\PurchaseOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:03:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "University Cafeteria Inventory\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:02:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Views\\UniversityCafeteria\\Index.cshtml",
+              "RelativeDocumentMoniker": "University Cafeteria Inventory\\Views\\UniversityCafeteria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\University Cafeteria Inventory\\University Cafeteria Inventory\\Views\\UniversityCafeteria\\Index.cshtml",
+              "RelativeToolTip": "University Cafeteria Inventory\\Views\\UniversityCafeteria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T16:58:44.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
